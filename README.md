@@ -14,7 +14,7 @@ Requirements
 transformers==4.2.2
 ```
 
-Model's file can be downloaded by [https://drive.google.com/drive/folders/1QDNYdnoNHlm7y90aVQc9JGBMLfra_0us?usp=sharing] this link
+Model's file can be downloaded by [this link](https://drive.google.com/drive/folders/1QDNYdnoNHlm7y90aVQc9JGBMLfra_0us?usp=sharing) 
 
 
 To fine-tune Turkish GPT-2 on your custom dataset, you can run main.py with the following arguments. Be aware that output directory has to be start with "gpt2-".
